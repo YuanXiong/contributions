@@ -1,4 +1,6 @@
 # contributions
 Datasets, publications, projects and technical posts
 
-I will release the DSNet dataset soon.
+The DSNet dataset will be released continuously.
+
+Some dataset for VR redirected walking will be released.
